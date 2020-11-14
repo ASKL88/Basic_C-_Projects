@@ -1,0 +1,7 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ListAndArraysAssignment\ListAndArraysAssignment\bin\Debug\ListAndArraysAssignment.exe.config
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ListAndArraysAssignment\ListAndArraysAssignment\bin\Debug\ListAndArraysAssignment.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ListAndArraysAssignment\ListAndArraysAssignment\bin\Debug\ListAndArraysAssignment.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ListAndArraysAssignment\ListAndArraysAssignment\obj\Debug\ListAndArraysAssignment.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ListAndArraysAssignment\ListAndArraysAssignment\obj\Debug\ListAndArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ListAndArraysAssignment\ListAndArraysAssignment\obj\Debug\ListAndArraysAssignment.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ListAndArraysAssignment\ListAndArraysAssignment\obj\Debug\ListAndArraysAssignment.pdb
