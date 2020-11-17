@@ -1,0 +1,7 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassesAndMethodsAssignment\ClassesAndMethodsAssignment\bin\Debug\ClassesAndMethodsAssignment.exe.config
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassesAndMethodsAssignment\ClassesAndMethodsAssignment\bin\Debug\ClassesAndMethodsAssignment.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassesAndMethodsAssignment\ClassesAndMethodsAssignment\bin\Debug\ClassesAndMethodsAssignment.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassesAndMethodsAssignment\ClassesAndMethodsAssignment\obj\Debug\ClassesAndMethodsAssignment.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassesAndMethodsAssignment\ClassesAndMethodsAssignment\obj\Debug\ClassesAndMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassesAndMethodsAssignment\ClassesAndMethodsAssignment\obj\Debug\ClassesAndMethodsAssignment.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassesAndMethodsAssignment\ClassesAndMethodsAssignment\obj\Debug\ClassesAndMethodsAssignment.pdb
