@@ -21,9 +21,7 @@ namespace ClassesAndMethodsAssignment
             int k = a.Third(intAnswer);
 
             Console.WriteLine(i);
-
             Console.WriteLine(j);
-
             Console.WriteLine(k);
             Console.ReadLine();
 
