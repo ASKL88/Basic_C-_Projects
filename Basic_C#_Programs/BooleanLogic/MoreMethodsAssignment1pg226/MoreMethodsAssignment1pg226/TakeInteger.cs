@@ -28,6 +28,8 @@ namespace MoreMethodsAssignment1pg226
             int result = stringAnswer / 1;
             Console.WriteLine(result);
             return z;
+
+
         }
 
     }

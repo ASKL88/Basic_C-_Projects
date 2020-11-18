@@ -1,0 +1,7 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\MoreMethodsAssignment227\MoreMethodsAssignment227\bin\Debug\MoreMethodsAssignment227.exe.config
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\MoreMethodsAssignment227\MoreMethodsAssignment227\bin\Debug\MoreMethodsAssignment227.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\MoreMethodsAssignment227\MoreMethodsAssignment227\bin\Debug\MoreMethodsAssignment227.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\MoreMethodsAssignment227\MoreMethodsAssignment227\obj\Debug\MoreMethodsAssignment227.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\MoreMethodsAssignment227\MoreMethodsAssignment227\obj\Debug\MoreMethodsAssignment227.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\MoreMethodsAssignment227\MoreMethodsAssignment227\obj\Debug\MoreMethodsAssignment227.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\MoreMethodsAssignment227\MoreMethodsAssignment227\obj\Debug\MoreMethodsAssignment227.pdb
