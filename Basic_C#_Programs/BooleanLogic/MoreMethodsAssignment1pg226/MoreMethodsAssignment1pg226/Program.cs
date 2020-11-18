@@ -21,9 +21,9 @@ namespace MoreMethodsAssignment1pg226
             Console.ReadLine();
 
             Console.WriteLine("Choose a decimal to do operations");
-            decimal decimalConvert = Convert.ToDecimal(Console.ReadLine());
-            int number = Decimal.ToInt32(decimalConvert);
-            int j = a.Math(number);
+            string decimalAnswer = Console.ReadLine();
+            decimal decimalConvert = Convert.ToDecimal(decimalAnswer);
+            decimal j = a.Math(decimalConvert);
 
 
             Console.WriteLine(j);
@@ -34,6 +34,9 @@ namespace MoreMethodsAssignment1pg226
             Console.WriteLine("Choose a number");
             string k = Console.ReadLine();
             a.Math(k);
+
+            Console.WriteLine(k);
+            Console.ReadLine();
 
 
         }

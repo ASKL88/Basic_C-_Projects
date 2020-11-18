@@ -8,7 +8,7 @@ namespace MoreMethodsAssignment227
 {
     class TwoInt
     {
-        public int Math(int x, int y)
+        public int Math(int x, int y=15)
         {
             int results = x + y;
             return results;

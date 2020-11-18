@@ -13,21 +13,21 @@ namespace MoreMethodsAssignment1pg226
             return x * 3;
         }
 
-        public decimal Math (decimal y)
+        public int Math (decimal y)
 
         {
-            return y + 10;
+            int decimalAnswer = Decimal.ToInt32(y);
+            int decimalresult =  decimalAnswer + 10;
+            return decimalresult;
         }
 
 
-        public string Math (string z)
+        public int Math (string z)
 
         {
             int stringAnswer = Convert.ToInt32(z);
-
             int result = stringAnswer / 1;
-            Console.WriteLine(result);
-            return z;
+            return result;
 
 
         }

@@ -25,7 +25,7 @@ namespace MoreMethodsAssignment227
             }
             else
             {
-                results = x + 15;
+                results = a.Math(x);
             }
 
             Console.WriteLine("Answer is: " + results);
