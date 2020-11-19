@@ -1,0 +1,7 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassMethods231\ClassMethods231\bin\Debug\ClassMethods231.exe.config
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassMethods231\ClassMethods231\bin\Debug\ClassMethods231.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassMethods231\ClassMethods231\bin\Debug\ClassMethods231.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassMethods231\ClassMethods231\obj\Debug\ClassMethods231.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassMethods231\ClassMethods231\obj\Debug\ClassMethods231.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassMethods231\ClassMethods231\obj\Debug\ClassMethods231.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\ClassMethods231\ClassMethods231\obj\Debug\ClassMethods231.pdb
