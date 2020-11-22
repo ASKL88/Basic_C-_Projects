@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7B9D1DEA-5AEA-477D-BC3A-32F938004D57}</ProjectGuid>
+    <ProjectGuid>{90C8FC5A-58F4-4B19-808D-BA5518CEEB36}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassMethods231</RootNamespace>
-    <AssemblyName>ClassMethods231</AssemblyName>
+    <RootNamespace>Inheritance236</RootNamespace>
+    <AssemblyName>Inheritance236</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Integer.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ThisIsStatic.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

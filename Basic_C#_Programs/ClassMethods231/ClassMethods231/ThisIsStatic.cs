@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ClassMethods231
 {
-    class Six
+    public static class ThisIsStatic
     {
+        public static void Do_stuff()
+        {
+            Console.WriteLine("Do stuff");
+        }
     }
 }

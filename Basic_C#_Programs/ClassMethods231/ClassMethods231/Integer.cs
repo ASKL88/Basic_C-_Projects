@@ -13,5 +13,17 @@ namespace ClassMethods231
             int results = x / 2;
             Console.WriteLine(results);
         }
+
+        public static void Output(out int i)
+        {
+            i = 30;
+            Console.WriteLine(i);
+        }
+
+        public static void Output(int z)
+        {
+            int number2 = z;
+            Console.WriteLine(number2);
+        }
     }
 }

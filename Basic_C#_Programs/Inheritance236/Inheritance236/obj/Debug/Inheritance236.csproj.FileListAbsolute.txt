@@ -1,0 +1,7 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Inheritance236\Inheritance236\bin\Debug\Inheritance236.exe.config
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Inheritance236\Inheritance236\bin\Debug\Inheritance236.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Inheritance236\Inheritance236\bin\Debug\Inheritance236.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Inheritance236\Inheritance236\obj\Debug\Inheritance236.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Inheritance236\Inheritance236\obj\Debug\Inheritance236.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Inheritance236\Inheritance236\obj\Debug\Inheritance236.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Inheritance236\Inheritance236\obj\Debug\Inheritance236.pdb

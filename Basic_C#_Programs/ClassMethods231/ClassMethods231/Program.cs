@@ -8,7 +8,7 @@ namespace ClassMethods231
 {
     class Program
     {
-        static void Main(string[] args)
+        static public void Main(string[] args)
         {
             Integer a = new Integer();
 
@@ -17,6 +17,11 @@ namespace ClassMethods231
 
             a.Math(num1);
             Console.ReadLine();
-        }
+
+            int i;
+            Integer.Output(out i);
+         }
+           
+
     }
 }
