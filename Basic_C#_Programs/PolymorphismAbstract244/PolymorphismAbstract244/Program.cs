@@ -15,8 +15,11 @@ namespace PolymorphismAbstract244
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.SayName();
-            Console.ReadLine();
+            
 
+            Employee quit = new Employee();
+            quit.Quit();
+            Console.ReadLine();
         }
     }
 }
