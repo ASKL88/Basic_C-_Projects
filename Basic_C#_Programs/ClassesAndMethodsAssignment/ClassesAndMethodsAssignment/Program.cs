@@ -15,14 +15,14 @@ namespace ClassesAndMethodsAssignment
             string answer = Console.ReadLine();
             int intAnswer = Convert.ToInt32(answer);
 
-            Integer a = new Integer();
-            int i = a.First(intAnswer);
-            int j = a.Second(intAnswer);
-            int k = a.Third(intAnswer);
+            Integer myObj = new Integer();
+            //int i = a.First(intAnswer);
+            //int j = a.Second(intAnswer);
+            //int k = a.Third(intAnswer);
 
-            Console.WriteLine(i);
-            Console.WriteLine(j);
-            Console.WriteLine(k);
+            Console.WriteLine(myObj.First(intAnswer));
+            //Console.WriteLine(j);
+            //Console.WriteLine(k);
             Console.ReadLine();
 
                 

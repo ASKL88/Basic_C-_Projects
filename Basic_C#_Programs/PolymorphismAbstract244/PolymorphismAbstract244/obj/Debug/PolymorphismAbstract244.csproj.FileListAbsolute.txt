@@ -1,0 +1,7 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\PolymorphismAbstract244\PolymorphismAbstract244\obj\Debug\PolymorphismAbstract244.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\PolymorphismAbstract244\PolymorphismAbstract244\obj\Debug\PolymorphismAbstract244.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\PolymorphismAbstract244\PolymorphismAbstract244\bin\Debug\PolymorphismAbstract244.exe.config
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\PolymorphismAbstract244\PolymorphismAbstract244\bin\Debug\PolymorphismAbstract244.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\PolymorphismAbstract244\PolymorphismAbstract244\bin\Debug\PolymorphismAbstract244.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\PolymorphismAbstract244\PolymorphismAbstract244\obj\Debug\PolymorphismAbstract244.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\PolymorphismAbstract244\PolymorphismAbstract244\obj\Debug\PolymorphismAbstract244.pdb

@@ -16,19 +16,23 @@ namespace MoreMethodsAssignment227
             int x = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Second number is optional ");
-            int y;
-            int results;
+            int y = Convert.ToInt32(Console.ReadLine());
 
-            if (int.TryParse(Console.ReadLine(), out y))
-            {
-                results = a.Math(x, y);
-            }
-            else
-            {
-                results = a.Math(x);
-            }
+            //int y;
+            //int results;
 
-            Console.WriteLine("Answer is: " + results);
+            //if (int.TryParse(Console.ReadLine(), out y))
+            //{
+            //    results = a.Math(x, y);
+            //}
+            //else
+            //{
+            //    results = a.Math(x);
+            //}
+
+            Console.WriteLine(a.Math(x, y));
+
+            //Console.WriteLine("Answer is: " + results);
             Console.ReadLine();
         }
     }
