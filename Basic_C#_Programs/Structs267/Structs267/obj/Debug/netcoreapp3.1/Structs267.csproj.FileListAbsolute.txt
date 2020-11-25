@@ -1,0 +1,13 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\bin\Debug\netcoreapp3.1\Structs267.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\bin\Debug\netcoreapp3.1\Structs267.deps.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\bin\Debug\netcoreapp3.1\Structs267.runtimeconfig.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\bin\Debug\netcoreapp3.1\Structs267.runtimeconfig.dev.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\bin\Debug\netcoreapp3.1\Structs267.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\bin\Debug\netcoreapp3.1\Structs267.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\obj\Debug\netcoreapp3.1\Structs267.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\obj\Debug\netcoreapp3.1\Structs267.AssemblyInfoInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\obj\Debug\netcoreapp3.1\Structs267.AssemblyInfo.cs
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\obj\Debug\netcoreapp3.1\Structs267.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\obj\Debug\netcoreapp3.1\Structs267.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\obj\Debug\netcoreapp3.1\Structs267.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Structs267\Structs267\obj\Debug\netcoreapp3.1\Structs267.genruntimeconfig.cache
