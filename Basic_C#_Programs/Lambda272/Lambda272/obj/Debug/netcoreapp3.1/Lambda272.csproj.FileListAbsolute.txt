@@ -1,0 +1,13 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\bin\Debug\netcoreapp3.1\Lambda272.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\bin\Debug\netcoreapp3.1\Lambda272.deps.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\bin\Debug\netcoreapp3.1\Lambda272.runtimeconfig.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\bin\Debug\netcoreapp3.1\Lambda272.runtimeconfig.dev.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\bin\Debug\netcoreapp3.1\Lambda272.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\bin\Debug\netcoreapp3.1\Lambda272.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\obj\Debug\netcoreapp3.1\Lambda272.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\obj\Debug\netcoreapp3.1\Lambda272.AssemblyInfoInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\obj\Debug\netcoreapp3.1\Lambda272.AssemblyInfo.cs
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\obj\Debug\netcoreapp3.1\Lambda272.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\obj\Debug\netcoreapp3.1\Lambda272.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\obj\Debug\netcoreapp3.1\Lambda272.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Lambda272\Lambda272\obj\Debug\netcoreapp3.1\Lambda272.genruntimeconfig.cache
