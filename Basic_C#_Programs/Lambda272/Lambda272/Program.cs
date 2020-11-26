@@ -29,7 +29,7 @@ namespace Lambda272
             foreach (Employee emp in newList)
             {
                 Console.WriteLine(emp.firstName + " " + emp.lastName);
-                    }
+            }
             //foreach (Employee emp in employees)
             //{   
             //    if (emp.firstName == "Joe")

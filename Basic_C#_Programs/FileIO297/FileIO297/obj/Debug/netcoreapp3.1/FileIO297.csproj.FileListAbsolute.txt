@@ -1,0 +1,13 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\bin\Debug\netcoreapp3.1\FileIO297.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\bin\Debug\netcoreapp3.1\FileIO297.deps.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\bin\Debug\netcoreapp3.1\FileIO297.runtimeconfig.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\bin\Debug\netcoreapp3.1\FileIO297.runtimeconfig.dev.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\bin\Debug\netcoreapp3.1\FileIO297.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\bin\Debug\netcoreapp3.1\FileIO297.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\obj\Debug\netcoreapp3.1\FileIO297.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\obj\Debug\netcoreapp3.1\FileIO297.AssemblyInfoInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\obj\Debug\netcoreapp3.1\FileIO297.AssemblyInfo.cs
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\obj\Debug\netcoreapp3.1\FileIO297.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\obj\Debug\netcoreapp3.1\FileIO297.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\obj\Debug\netcoreapp3.1\FileIO297.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\FileIO297\FileIO297\obj\Debug\netcoreapp3.1\FileIO297.genruntimeconfig.cache
