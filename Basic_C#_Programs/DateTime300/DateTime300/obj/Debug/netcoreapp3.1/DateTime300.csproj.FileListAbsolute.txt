@@ -1,0 +1,13 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\bin\Debug\netcoreapp3.1\DateTime300.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\bin\Debug\netcoreapp3.1\DateTime300.deps.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\bin\Debug\netcoreapp3.1\DateTime300.runtimeconfig.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\bin\Debug\netcoreapp3.1\DateTime300.runtimeconfig.dev.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\bin\Debug\netcoreapp3.1\DateTime300.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\bin\Debug\netcoreapp3.1\DateTime300.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\obj\Debug\netcoreapp3.1\DateTime300.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\obj\Debug\netcoreapp3.1\DateTime300.AssemblyInfoInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\obj\Debug\netcoreapp3.1\DateTime300.AssemblyInfo.cs
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\obj\Debug\netcoreapp3.1\DateTime300.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\obj\Debug\netcoreapp3.1\DateTime300.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\obj\Debug\netcoreapp3.1\DateTime300.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\DateTime300\DateTime300\obj\Debug\netcoreapp3.1\DateTime300.genruntimeconfig.cache
