@@ -1,0 +1,13 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\bin\Debug\netcoreapp3.1\AdditionFeatures310.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\bin\Debug\netcoreapp3.1\AdditionFeatures310.deps.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\bin\Debug\netcoreapp3.1\AdditionFeatures310.runtimeconfig.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\bin\Debug\netcoreapp3.1\AdditionFeatures310.runtimeconfig.dev.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\bin\Debug\netcoreapp3.1\AdditionFeatures310.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\bin\Debug\netcoreapp3.1\AdditionFeatures310.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\obj\Debug\netcoreapp3.1\AdditionFeatures310.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\obj\Debug\netcoreapp3.1\AdditionFeatures310.AssemblyInfoInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\obj\Debug\netcoreapp3.1\AdditionFeatures310.AssemblyInfo.cs
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\obj\Debug\netcoreapp3.1\AdditionFeatures310.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\obj\Debug\netcoreapp3.1\AdditionFeatures310.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\obj\Debug\netcoreapp3.1\AdditionFeatures310.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\AdditionFeatures310\AdditionFeatures310\obj\Debug\netcoreapp3.1\AdditionFeatures310.genruntimeconfig.cache
