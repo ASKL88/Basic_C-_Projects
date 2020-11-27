@@ -1,0 +1,13 @@
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\bin\Debug\netcoreapp3.1\Exceptions314.exe
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\bin\Debug\netcoreapp3.1\Exceptions314.deps.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\bin\Debug\netcoreapp3.1\Exceptions314.runtimeconfig.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\bin\Debug\netcoreapp3.1\Exceptions314.runtimeconfig.dev.json
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\bin\Debug\netcoreapp3.1\Exceptions314.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\bin\Debug\netcoreapp3.1\Exceptions314.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\obj\Debug\netcoreapp3.1\Exceptions314.csprojAssemblyReference.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\obj\Debug\netcoreapp3.1\Exceptions314.AssemblyInfoInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\obj\Debug\netcoreapp3.1\Exceptions314.AssemblyInfo.cs
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\obj\Debug\netcoreapp3.1\Exceptions314.csproj.CoreCompileInputs.cache
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\obj\Debug\netcoreapp3.1\Exceptions314.dll
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\obj\Debug\netcoreapp3.1\Exceptions314.pdb
+C:\Users\AL\Documents\GitHub\Basic_CSharp-_Projects\Basic_C#_Programs\Exceptions314\Exceptions314\obj\Debug\netcoreapp3.1\Exceptions314.genruntimeconfig.cache
