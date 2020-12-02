@@ -1,0 +1,82 @@
+﻿@using CarInsurance.Models
+@model IEnumerable<CarInsurance.Models.Insuree>
+
+
+<table class="table">
+        <tr>
+                <th>
+                        @Html.DisplayNameFor(model => model.FirstName)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.LastName)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.EmailAddress)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.DateOfBirth)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.CarYear)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.CarMake)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.CarModel)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.DUI)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.SpeedingTickets)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.CoverageType)
+                </th>
+                <th>
+                        @Html.DisplayNameFor(model => model.Quote)
+                </th>
+                <th></th>
+        </tr>
+        @foreach (var insuree in Model)
+        {
+                <tr>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.FirstName)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.LastName)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.EmailAddress)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.DateOfBirth)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.CarYear)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.CarMake)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.CarModel)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.DUI)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.SpeedingTickets)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.CoverageType)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => insuree.Quote)
+                        </td>
+                </tr>
+        }
+
+
+</table>
